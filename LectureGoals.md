@@ -4,7 +4,7 @@
 - Protocols like HTTP, DNS, TCP/IP (OSI?)
 - Internet network topology
   - subnets, peering, backbone, net neutrality
-  
+
 ## Basic knowledge of frontend web technologies
 - Development of static web content
 - HTML/CSS/JS
@@ -13,7 +13,7 @@
 - Webservers
 - APIs
   - RESTful
-  
+
 ## Software Ergonomics
 - Accessability
 - Responsiveness
@@ -23,3 +23,4 @@
 - Frameworks
 - Modularization
 - Compiling to CSS / JS
+- Webassembly
