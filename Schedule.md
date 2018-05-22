@@ -52,6 +52,6 @@
 
 11. Last but not least
     - Presentation of projects
-    - Prospects: _Advanced web engineering_: (Compiling to CSS, JS, Webassembly, Single-Page Application Frameworks)
+    - Prospects: _Advanced web engineering_: (Compiling to CSS / JS, Webassembly, Single-Page Application Frameworks)
     - Exam preparation
     - Feedback round
