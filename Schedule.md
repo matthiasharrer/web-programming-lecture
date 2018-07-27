@@ -1,5 +1,6 @@
 01. Introduction
     - Introduction and getting to know each other (existing knowledge about web programming of the students)
+        - Version Control System Experience?
     - Motiviation to get interested in web programming
     - History of the internet
     - How does the internet actually work? (Rough HTTP, DNS & OSI-Model)
