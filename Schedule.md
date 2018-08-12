@@ -52,9 +52,9 @@
 
 09. Project / Friday, 19.10.2018
 
-10. Project / Wendsday, 24.10.2018
+10. Project / Wednesday, 24.10.2018
 
-11. Last but not least / Wendsday, 30.10.2018
+11. Last but not least / Wednesday, 30.10.2018
     - Presentation of projects
     - Prospects: _Advanced web engineering_: (Compiling to CSS / JS, Webassembly, Single-Page Application Frameworks)
     - Exam preparation
